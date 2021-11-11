@@ -2,7 +2,7 @@
 ---
 
 <br/>
-Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member 🙍🏽‍♂️ [@CPT-IT](https://cpt-it.com/),  Beside's Computer Science. 
+Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member 🙍🏽‍♂️ [@CPTIT](https://cpt-it.com/),  Beside's Computer Science. 
 
 ---
 
