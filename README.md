@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Sanket! - www.sanketpatil.me](https://www.sanketpatil.me)  
+### Hey 👋🏽, I'm [Ahmed! - www.tqanah.com](https://www.tqanah.com)  
 
 <!--
 **AhmedMohammed301/AhmedMohammed301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
