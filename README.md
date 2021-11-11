@@ -27,7 +27,7 @@ Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![VueJs](https://img.shields.io/badge/-VueJs-%23282C34?style=flat-square&logo=VueJs)
-![NGINX](http://img.shields.io/badge/-VueJs-269539?style=flat-square&logo=VueJs&logoColor=ffffff)
+![VueJs](http://img.shields.io/badge/-VueJs-269539?style=flat-square&logo=VueJs&logoColor=ffffff)
 
 #### Database
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
