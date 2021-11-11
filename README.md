@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Ahmed! - www.tqanah.com](https://www.tqanah.com)  
 
 
-Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member 🙍🏽‍♂️ [@YSolution](https://cpt-it.com/),  Beside's Computer Science. 
+Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member 🙍🏽‍♂️ [@CPT-IT](https://cpt-it.com/),  Beside's Computer Science. 
 
 <!--
 **AhmedMohammed301/AhmedMohammed301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
