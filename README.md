@@ -16,7 +16,7 @@ Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member
 
 ### My Tech Stack
 
-![PHP](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![PHP](http://img.shields.io/badge/-PHP-007396?style=flat-square&logo=PHP&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![NodeJS](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Livewire](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
