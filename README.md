@@ -15,7 +15,7 @@ Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member
 - 📝[Resume](https://drive.google.com/file/d/1d6x_oVjzUT7C6BVO9AW51lYoWeyz23af/view?usp=sharing)
 
 <br/>
-<a href="https://app.daily.dev/AhmedOmani"><img src="https://api.daily.dev/devcards/d73077aa708d4b349a7cc9bbd447ad9c.png?r=kmo" width="400" alt="Ahmed Mohammed's Dev Card"/></a>
+
 
 ### My Tech Stack
 
