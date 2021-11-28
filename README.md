@@ -5,8 +5,7 @@
 Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member 🙍🏽‍♂ [@CPT-IT](https://cpt-it.com/)
 
 ---
-
-<br/>
+<a href="https://app.daily.dev/AhmedOmani"><img src="https://api.daily.dev/devcards/d73077aa708d4b349a7cc9bbd447ad9c.png?r=kmo" width="400" alt="Ahmed Mohammed's Dev Card"/></a>
 
 - 👨‍💻 I’m currently working on web development technologies like Larave, Vue etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
