@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Ahmed! - www.tqanah.com](https://www.tqanah.com)  
+### Hey 👋🏽, I'm [Ahmed! - www.tqanah.com](https://ahmedmohammed301.github.io/)  
 ---
 
 <br/>
@@ -11,11 +11,15 @@ Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn System design - Never stop learning.
 - 📫 How to reach me: eng.a7medfci@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1d6x_oVjzUT7C6BVO9AW51lYoWeyz23af/view?usp=sharing)  <a href="https://app.daily.dev/AhmedOmani"><img src="https://api.daily.dev/devcards/d73077aa708d4b349a7cc9bbd447ad9c.png?r=kmo" width="400" alt="Ahmed Mohammed's Dev Card"/></a>
+- 📝[Resume](https://drive.google.com/file/d/1d6x_oVjzUT7C6BVO9AW51lYoWeyz23af/view?usp=sharing)  
+
+
+
+
 
 <br/>
 
-
+  
 ### My Tech Stack
 
 ![PHP](http://img.shields.io/badge/-PHP-007396?style=flat-square&logo=PHP&logoColor=ffffff)
