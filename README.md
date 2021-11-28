@@ -5,13 +5,13 @@
 Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member 🙍🏽‍♂ [@CPT-IT](https://cpt-it.com/)
 
 ---
-<a href="https://app.daily.dev/AhmedOmani"><img src="https://api.daily.dev/devcards/d73077aa708d4b349a7cc9bbd447ad9c.png?r=kmo" width="400" alt="Ahmed Mohammed's Dev Card"/></a>
+
 
 - 👨‍💻 I’m currently working on web development technologies like Larave, Vue etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn System design - Never stop learning.
 - 📫 How to reach me: eng.a7medfci@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1d6x_oVjzUT7C6BVO9AW51lYoWeyz23af/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1d6x_oVjzUT7C6BVO9AW51lYoWeyz23af/view?usp=sharing)  <a href="https://app.daily.dev/AhmedOmani"><img src="https://api.daily.dev/devcards/d73077aa708d4b349a7cc9bbd447ad9c.png?r=kmo" width="400" alt="Ahmed Mohammed's Dev Card"/></a>
 
 <br/>
 
