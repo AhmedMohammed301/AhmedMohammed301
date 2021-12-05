@@ -14,8 +14,7 @@ Hi, I'm Ahmed Mohamed, a Web Developer from Egypt, currently, I'm a  Team Member
 - 📝[Resume](https://drive.google.com/file/d/1d6x_oVjzUT7C6BVO9AW51lYoWeyz23af/view?usp=sharing)  
 
 
-<a  href="https://app.daily.dev/AhmedOmani"><img   align="right" src="https://api.daily.dev/devcards/d73077aa708d4b349a7cc9bbd447ad9c.png?r=ujc"  width="320" alt="Ahmed Mohammed's Dev Card"/></a>
-
+<a href="https://app.daily.dev/AhmedOmani"><img  align="right" src="https://api.daily.dev/devcards/d73077aa708d4b349a7cc9bbd447ad9c.png?r=zz4" width="320" alt="Ahmed Mohammed's Dev Card"/></a>
 
 <br/>
 
