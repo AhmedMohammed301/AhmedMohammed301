@@ -21,7 +21,7 @@
 -  📫 How to reach me: eng.a7medfci@gmail.com
 -  📝[Resume](https://drive.google.com/file/d/1d6x_oVjzUT7C6BVO9AW51lYoWeyz23af/view?usp=sharing)  
   
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
